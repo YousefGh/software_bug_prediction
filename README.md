@@ -1,5 +1,5 @@
 # Software Bug Prediction
-
+_Note: Download the ML_porject.html file and open it with the brower for smoother and easier project browsing. And for better visuals_
 ### Dataset:
 The dataset is collected at the University of Geneva in Switzerland related to the bug prediction dataset. It contains data about the following software systems:
     - Eclipse JDT Core
